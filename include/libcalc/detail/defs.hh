@@ -1,7 +1,7 @@
 // -*- mode: c++ -*-
 
-#ifndef LIBCALC_LIBCALC_DEFS_HH
-#define LIBCALC_LIBCALC_DEFS_HH
+#ifndef LIBCALC_LIBCALC_DETAIL_DEFS_HH
+#define LIBCALC_LIBCALC_DETAIL_DEFS_HH
 
 #include <boost/assert.hpp>
 
@@ -13,4 +13,4 @@
 
 namespace calc{ }
 
-#endif // LIBCALC_LIBCALC_DEFS_HH
+#endif // LIBCALC_LIBCALC_DETAIL_DEFS_HH

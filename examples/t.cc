@@ -4,5 +4,6 @@
 
 int main()
 {
+    calc::expr_t{ };
     return 0;
 }
